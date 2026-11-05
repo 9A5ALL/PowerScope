@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=PowerScope
+GenericName=Power and battery monitor
+Comment=Monitor battery power, CPU, GPU and temperature
+Exec=powerscope
+Icon=org.powerscope.monitor
+Terminal=false
+Categories=System;Monitor;Utility;
+StartupNotify=true

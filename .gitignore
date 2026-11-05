@@ -1,0 +1,10 @@
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.deb
+*.tar.gz
+.vscode/
+.idea/
+*~
